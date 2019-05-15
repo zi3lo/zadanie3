@@ -12,5 +12,7 @@ Korzystając z dowolnego oprogramowania do obsługi git (lecz nie strony github.
 5) Dodaj swoje imie i nazwisko do pliku lista obecnosci
 6) Skomituj zmiany w swojej gałęzi (git commit)
 7) Zapisz swoją gałąź na swererze (git push)
-* Korzystając ze strony github
-8) Poproś o pull request korzystając ze strony github
+
+Korzystając ze strony github.com
+
+8) Utwórz pull request korzystając ze strony github
