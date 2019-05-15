@@ -2,6 +2,8 @@
 GIT
 
 ## TO DO
+
+Utwórz konto na github, zaloguj się oraz utwórz fork do niniejszego repozytorium.
 Korzystając z dowolnego oprogramowania do obsługi git (lecz nie strony github.com) :
 1) Sklonuj repozytorium na swój komputer
 2) Utwórz nową gałąź : nazwij ją galaz_TwojeImieInazwisko
